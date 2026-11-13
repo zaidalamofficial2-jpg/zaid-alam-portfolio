@@ -1,24 +1,53 @@
-# Zaid Alam — Personal Portfolio
+# Zaid Alam — AI-Assisted Web Developer & CMA Student
 
-A responsive personal portfolio website showcasing my CMA studies, projects, skills, and contact information.
+A responsive personal portfolio showcasing Zaid Alam's AI-assisted web development workflow, featured digital projects, skills, learning journey, and contact information.
 
-## About
-I am a CMA student at ICMA Pakistan, currently studying Operational Level One. This portfolio highlights my learning journey and web projects.
+## Features
 
-## Projects
-- [ZA CMA Learning Hub / LMS Project](https://zaidalamofficial2-jpg.github.io/LMS-Project/)
-- [MDCAT Learning Platform](https://zaidalamofficial2-jpg.github.io/MdcatLearning-Platorm/)
-- [Happy Birthday Fahad](https://zaidalamofficial2-jpg.github.io/happy-birthday-fahad/)
-- [Surprise for Noraiz](https://zaidalamofficial2-jpg.github.io/surprise-for-noraiz/)
+- Responsive design for desktop, tablet, and mobile
+- Dark and light theme toggle
+- Featured project cards with links to live websites
+- Project journal and audit-inspired visual section
+- Skills and workflow overview
+- Education and development journey timeline
+- WhatsApp, email, and LinkedIn contact links
+- Subtle scroll-reveal animations
+- Built with HTML, CSS, and JavaScript
+- No backend, build process, or external dependencies required
 
-## Publish with GitHub Pages
-1. Upload `index.html` and `README.md` to the root of your GitHub repository.
-2. Open **Settings → Pages**.
-3. Under **Build and deployment**, choose **Deploy from a branch**.
-4. Select branch `main` and folder `/(root)`, then click **Save**.
-5. Wait for GitHub Pages to publish the site.
+## Project Structure
+
+```text
+.
+├── index.html
+└── README.md
+```
+
+## Run Locally
+
+1. Download or clone this repository.
+2. Open `index.html` in a modern web browser.
+
+## Deploy with GitHub Pages
+
+1. Create a new repository on GitHub.
+2. Upload `index.html` and `README.md` to the repository's root directory.
+3. Open the repository's **Settings**.
+4. Select **Pages** from the sidebar.
+5. Under **Build and deployment**, choose **Deploy from a branch**.
+6. Select the `main` branch and `/ (root)` folder.
+7. Click **Save**. GitHub Pages will publish the website and show its URL in the Pages settings.
+
+## Customize
+
+Edit `index.html` to update the introduction, featured projects, project URLs, skills, education details, contact information, or design styles.
 
 ## Contact
+
+- WhatsApp: 0348 4020589
 - Email: zaidalam.official2@gmail.com
-- WhatsApp: https://wa.me/923484020580
-- LinkedIn: https://www.linkedin.com/in/zaid-alam-0b72b6425/
+- LinkedIn: https://www.linkedin.com/in/zaid-alam-0b72b6425
+
+---
+
+© Zaid Alam. All rights reserved.
